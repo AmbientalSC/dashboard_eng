@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/indicadores_eng/sw.js', { scope: '/indicadores_eng/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/dashboard_eng/sw.js', { scope: '/dashboard_eng/' })})}
