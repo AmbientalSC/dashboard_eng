@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/indicadores_eng/dev-sw.js?dev-sw', { scope: '/indicadores_eng/', type: 'classic' })
